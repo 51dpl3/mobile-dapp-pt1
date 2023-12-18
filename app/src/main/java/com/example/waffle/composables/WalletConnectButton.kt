@@ -46,7 +46,7 @@ fun WalletConnectButton(
             Text(
                 modifier = Modifier.padding(start = 8.dp),
                 text = buttonText,
-                maxLines = 1,           )
+                maxLines = 1,)
         }
     }
 }
